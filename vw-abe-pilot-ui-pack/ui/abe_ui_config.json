@@ -1,0 +1,9 @@
+{
+  "enable_greeting": true,
+  "greeting_text": "Hi Abe, let's go!",
+  "show_logo": true,
+  "logo_path": "ui/assets/abe/images/logo_abe_skoda_tesla.svg",
+  "play_sound": false,
+  "sound_path": "ui/assets/abe/sounds/hi_abe.wav",
+  "greeting_timeout_ms": 2200
+}
